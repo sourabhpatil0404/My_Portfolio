@@ -4,6 +4,7 @@ Creating Portfolio by reference to one of the Github user.
 Deleted her pic and added my.
 <br>
 Added resume of me by deleting her.
+<br>
 Learn deployment in python.
 <br>
 - Git&GitHub Gym.
