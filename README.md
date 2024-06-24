@@ -5,9 +5,9 @@ Deleted her pic and added my.
 <br>
 Added resume of me by deleting her.
 <br>
-Learn deployment in python.(to_do)
+Learn deployment in python.(to do)
 <br>
-ML(to_do)
+ML(to do)
 <br>
-Data Technologies!( to_do)
+Data Technologies!( to do)
 - Git&GitHub Gym.
