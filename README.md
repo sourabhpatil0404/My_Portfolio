@@ -11,4 +11,4 @@ ML(to do).
 <br>
 Data. Technologies.
 
-- Git&GitHub Gym..
+- Git&GitHub Gym.
