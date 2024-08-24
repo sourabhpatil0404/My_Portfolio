@@ -10,4 +10,5 @@ Learn deployment in python.(to do)
 ML(to do).
 <br>
 Data. Technologies.
-       - Git&GitHub Gym.
+<br>
+- Git&GitHub Gym.
