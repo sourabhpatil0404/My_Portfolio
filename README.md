@@ -9,7 +9,7 @@ Learn deployment in python.(to do)
 <br>
 ML(to do).
 <br>
-Data. Technologies
+Data Technologies
 <br>
 - Git&GitHub Gym.
 
