@@ -8,5 +8,4 @@ Added resume of me by deleting her.
 Learn deployment in python.(to do)
 <br>
 ML(to do)
-<br>
-Data Technologies.
+
