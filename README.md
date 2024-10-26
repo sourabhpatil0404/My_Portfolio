@@ -7,6 +7,6 @@ Added resume of me by deleting her.
 <br>
 Learn deployment in python.(to do)
 <br>
-ML to do...
+ML to do.
 
 
