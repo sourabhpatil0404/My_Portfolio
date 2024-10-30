@@ -6,4 +6,3 @@ Deleted her pic and added my.
 Added resume of me by deleting her.
 <br>
 Learn deployment in python.(to do).
-.........
