@@ -1,4 +1,4 @@
-@font-face {
+@font-face 
     font-family: 'Nunito', sans-serif;
     src: url('https://fonts.googleapis.com/css2?family=Nunito&display=swap')format('woff2');;
 }
@@ -738,5 +738,6 @@ h1, h4, p, .transparent-button, .menu-items {
 .broker-tag:hover {
     animation: spinIn 1s ease-out forwards;
 } */ 
+
 
 
