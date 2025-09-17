@@ -181,7 +181,7 @@ i {
 }
 
 .middle::-webkit-scrollbar-thumb {
-    background-color: transparent; /* Make scrollbar thumb transparent */
+    background-color: transparent; 
 }
 
 .middle::-webkit-scrollbar-track {
@@ -738,6 +738,7 @@ h1, h4, p, .transparent-button, .menu-items {
 .broker-tag:hover {
     animation: spinIn 1s ease-out forwards;
 } */ 
+
 
 
 
