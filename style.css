@@ -3,7 +3,7 @@
     src: url('https://fonts.googleapis.com/css2?family=Nunito&display=swap')format('woff2');;
 }
 
-html, body {
+ html, body {
     height: 100%;
     margin: 0;
     overflow: hidden;
@@ -738,6 +738,7 @@ h1, h4, p, .transparent-button, .menu-items {
 .broker-tag:hover {
     animation: spinIn 1s ease-out forwards;
 } */ 
+
 
 
 
