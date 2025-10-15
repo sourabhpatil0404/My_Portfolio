@@ -23,7 +23,6 @@ body {
 h1 {
     font-size: 5em; 
     color: #fff;
-    /* text-shadow: 2px 2px 0 #8892b0, -2px -2px 0 #38C7A8, 2px -2px 0 #8892b0, -2px 2px 0 #8892b0; */
 
 }
 
@@ -738,6 +737,7 @@ h1, h4, p, .transparent-button, .menu-items {
 .broker-tag:hover {
     animation: spinIn 1s ease-out forwards;
 } */ 
+
 
 
 
