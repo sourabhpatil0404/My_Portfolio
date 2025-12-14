@@ -108,7 +108,7 @@ i {
     left: -10px;
     width: 100%;
     height: 100%;
-    background-color: #38C7A8; /* Red overlay with 50% opacity */
+    background-color: #38C7A8; 
     opacity: 0.3;
     z-index: 10;
 }
@@ -736,6 +736,7 @@ h1, h4, p, .transparent-button, .menu-items {
 .broker-tag:hover {
     animation: spinIn 1s ease-out forwards;
 } */ 
+
 
 
 
