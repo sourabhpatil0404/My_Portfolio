@@ -36,7 +36,6 @@ h3 {
 h4 {
     font-size: 1.5em;
     color: #ccd6f6;
-    /* font-weight: bold; */
 }
 
 p {
@@ -673,3 +672,4 @@ i {
 .mobile-menu_open .mobile-menu__trigger:hover span::after {
     transform: rotate(30deg);
 }
+
