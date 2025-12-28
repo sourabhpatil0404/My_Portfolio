@@ -166,7 +166,7 @@ i {
 }
 
 .menu-items li {
-    display: block; /* Display the menu items as blocks */
+    display: block; 
     margin: 10px 0; /* Add spacing between menu items */
 }
 .close-menu {
@@ -672,4 +672,5 @@ i {
 .mobile-menu_open .mobile-menu__trigger:hover span::after {
     transform: rotate(30deg);
 }
+
 
