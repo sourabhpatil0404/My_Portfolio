@@ -175,7 +175,7 @@ i {
     max-height: 100vh;   /* Set a maximum height for scrolling */
 }
 .middle::-webkit-scrollbar {
-    width: 0.5em; /* Adjust scrollbar width if needed */
+    width: 0.5em; 
 }
 
 .middle::-webkit-scrollbar-thumb {
@@ -736,6 +736,7 @@ h1, h4, p, .transparent-button, .menu-items {
 .broker-tag:hover {
     animation: spinIn 1s ease-out forwards;
 } */ 
+
 
 
 
