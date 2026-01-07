@@ -425,18 +425,6 @@ i {
 #resume-container h3 { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 9pt; }
 #resume-container .p, #resume-container p { color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; margin:0pt; }
 #resume-container .s3 { color: black; font-family:Arial, sans-serif; font-style: italic; font-weight: normal; text-decoration: none; font-size: 9pt; }
-#resume-container li {
-    display: block; 
-    padding-left: 25pt;
-    padding-top: 0px;
-    padding-bottom: 0px;
-    padding-right: 25px;
-}
-#resume-container ul {
-    margin: 0px;
-    padding: 0px;
-    list-style-type: none; /* Remove default list style (bullet point) */
-}
 #resume-container #l1 {padding-left: 0pt; }
 #resume-container #l1> li>*:first-child:before {content: "● "; color: black; font-family:Arial, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 9pt; }
 
@@ -484,5 +472,6 @@ i {
 .menu-toggle {
     display: none;
 }
+
 
 
