@@ -170,9 +170,9 @@ i {
     width: 90%;
     margin-left: 5%;
     margin-right: 5%;
-    overflow-y: scroll;  /* Enable vertical scrolling */
+    overflow-y: scroll;  
     overflow-x: hidden;
-    max-height: 100vh;   /* Set a maximum height for scrolling */
+    max-height: 100vh;   
 }
 .middle::-webkit-scrollbar {
     width: 0.5em; 
@@ -736,6 +736,7 @@ h1, h4, p, .transparent-button, .menu-items {
 .broker-tag:hover {
     animation: spinIn 1s ease-out forwards;
 } */ 
+
 
 
 
