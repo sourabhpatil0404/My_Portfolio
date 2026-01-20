@@ -104,7 +104,6 @@
                 <p>
                     This phase marked a significant challenge in our Taco DB development journey. We encountered intense struggles as we wrote and debugged code, revisited our design, contemplated corner cases, and repeated the coding and debugging process tirelessly. Despite the hurdles, we ultimately triumphed by successfully constructing a self-balancing indexing structure entirely from scratch. This experience etched a valuable lesson into our development philosophy: "Weeks of coding can save you hours of planning." The creation of this self-balancing index, akin to the index found in the opening pages of textbooks, emphasized its role in accelerating search operations within a database. An index, as a data structure, plays a crucial role in expediting searches on specific fields within a relation, showcasing the indispensable importance of meticulous planning in the coding process.
                 </p>
-                <p>B-Tree:The B-Tree, a dynamic and self-balancing structure, boasts a unique  where all paths from the root to the leaf pages maintain the same length, ensuring a consistent tree height denoted as 'h.' This adaptability extends to insertion and deletion operations, making it an efficient choice for dynamic datasets. Within the B-Tree, data entries find their place in the leaf pages, while index entries are housed in the internal pages. Each page, representing a node in the tree, adheres to a minimum occupancy rule, except for the root, typically maintained at around 50%. Essentially, every node in the tree corresponds to a page in the file, contributing to the organized and balanced nature of the B-Tree structure.
                 </p>
                 <img style="width: 600px;" src="DBImages/btree.png" alt="Your Image">
                 <p>We first implemented the barebones structure of B-Tree, then B-Tree Search, then supported B-Tree Insertion and Deletion. It seems simple but I can assure you that it is not. You can find more info here.</p>
@@ -152,6 +151,7 @@
       </div>
 </body>
 </html>
+
 
 
 
