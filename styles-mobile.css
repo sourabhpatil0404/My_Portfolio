@@ -230,7 +230,7 @@ i {
     width: 100%;
     margin-left: 0%;
     margin-right: 0%;
-    overflow-y: scroll;  /* Enable vertical scrolling */
+    overflow-y: scroll;  
     overflow-x: hidden;
     max-height: 100vh;   /* Set a maximum height for scrolling */
 }
@@ -672,5 +672,6 @@ i {
 .mobile-menu_open .mobile-menu__trigger:hover span::after {
     transform: rotate(30deg);
 }
+
 
 
