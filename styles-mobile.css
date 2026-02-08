@@ -167,7 +167,7 @@ i {
 
 .menu-items li {
     display: block; 
-    margin: 10px 0; /* Add spacing between menu items */
+    margin: 10px 0; /* Add spacing between menu  */
 }
 .close-menu {
     position: absolute;
@@ -672,6 +672,7 @@ i {
 .mobile-menu_open .mobile-menu__trigger:hover span::after {
     transform: rotate(30deg);
 }
+
 
 
 
