@@ -247,7 +247,6 @@ i {
 }
 .active-list-item {
     border-bottom: 2px solid #38C7A8;
-    /* Add any other styling for the active list item */
 }
 .experience li:hover {
     background-color: #112240;
@@ -736,6 +735,7 @@ h1, h4, p, .transparent-button, .menu-items {
 .broker-tag:hover {
     animation: spinIn 1s ease-out forwards;
 } */ 
+
 
 
 
