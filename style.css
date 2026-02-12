@@ -258,8 +258,7 @@ i {
 }
 .transparent-button:hover {
     background: #112240;
-     /* Adjust the hover background transparency */
-    /* color: #CAB5A7;  */
+   
 }
 
 .rotate-text {
@@ -735,6 +734,7 @@ h1, h4, p, .transparent-button, .menu-items {
 .broker-tag:hover {
     animation: spinIn 1s ease-out forwards;
 } */ 
+
 
 
 
