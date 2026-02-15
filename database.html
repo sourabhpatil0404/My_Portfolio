@@ -111,7 +111,6 @@
                 <h4>07. Basic Query Processing</h4>
 
                 <p>
-                    In our journey to build Taco DB, we've successfully constructed several crucial layers, each contributing to the database's functionality. These include the layer responsible for storing data on the disk, the Buffer Manager aiding database access, the layer managing record layout on data pages and heap files, and the layer enhancing data retrieval through BTree indexes. Now, as we move forward, the pivotal task is to effectively process user requests. This led to the development of a query processor for Taco DB in this phase. Here, our focus shifted from algorithmic intricacies to common engineering patterns and memory management. We implemented physical plans and execution states for basic operators like selection, projection, cartesian product, and aggregation, marking a significant step towards a fully functioning single-threaded database, albeit without a SQL parser and an optional query optimizer at this stage. Notably, external sorting in Taco DB is treated as a standalone component, offering versatility for various scenarios.
                 </p>
             </div>
             <div class="about-container" id="about">
@@ -150,6 +149,7 @@
       </div>
 </body>
 </html>
+
 
 
 
