@@ -86,7 +86,7 @@
                 <img style="width: 600px;" src="DBImages/buffermanagerpseudocode.png" alt="Your Image">
                 <p>In the realm of buffer management, the Buffer Manager plays a pivotal role. However, a common challenge arises when we exhaust the available buffer frames, for instance, when scanning a table with N = 100 pages but a buffer pool size of m = 10. In such cases, various policies come into play to determine the victim – the page to be removed from the buffer pool. Policies like Least Recently Used (LRU), Most Recently Used (MRU), and Clock are employed to make this decision, ensuring efficient utilization of the limited buffer space.</p>
                 <img style="width: 600px;" src="DBImages/bufferpin1.png" alt="Your Image">
-                <p>Buffer pinning proves to be a useful concept in addressing potential problems with page eviction in database management. One significant concern arises when an evicted page has been modified, such as in the case of an UPDATE operation. It becomes essential to write back the modified page before eviction to maintain data integrity. Concurrency poses a challenge, especially when one thread is reading a block while another attempts to evict it. Although the initial preference was to implement Least Recently Used (LRU), practical issues surfaced during the design phase. Removing a node in the middle of the LRU list when there's a buffer hit and the risk of Sequential Flooding, where every existing page in the buffer gets evicted, raised complications. Consequently, the decision was made to adopt the Clock policy as it serves as a practical approximation of LRU, addressing these challenges in a more efficient manner.</p>
+                <p>Buffer pinning proves to be a useful  in addressing potential problems with page eviction in database management. One significant concern arises when an evicted page has been modified, such as in the case of an UPDATE operation. It becomes essential to write back the modified page before eviction to maintain data integrity. Concurrency poses a challenge, especially when one thread is reading a block while another attempts to evict it. Although the initial preference was to implement Least Recently Used (LRU), practical issues surfaced during the design phase. Removing a node in the middle of the LRU list when there's a buffer hit and the risk of Sequential Flooding, where every existing page in the buffer gets evicted, raised complications. Consequently, the decision was made to adopt the Clock policy as it serves as a practical approximation of LRU, addressing these challenges in a more efficient manner.</p>
                 <img style="width: 600px;" src="DBImages/bufferpin2.png" alt="Your Image">
             </div>
             <div class="about-container" id="about">
@@ -149,6 +149,7 @@
       </div>
 </body>
 </html>
+
 
 
 
